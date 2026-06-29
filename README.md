@@ -79,23 +79,26 @@ log in, browse job-related pages, and manage their applications through a respon
 
 ### 🏠 Home Page
 
-(Add Screenshot Here)
+<img width="1896" height="881" alt="Screenshot 2026-06-29 124840" src="https://github.com/user-attachments/assets/76b05859-6641-451e-9745-f595c8607cb9" />
+
+<img width="1907" height="893" alt="Screenshot 2026-06-29 124853" src="https://github.com/user-attachments/assets/41cf7ba8-5106-4a89-8f11-bdddbb2d3154" />
+
+<img width="1912" height="897" alt="Screenshot 2026-06-29 125128" src="https://github.com/user-attachments/assets/f8853443-3406-4eab-b343-07094beb7202" />
+
 
 ### 🔐 Login Page
 
-(Add Screenshot Here)
+<img width="1918" height="900" alt="Screenshot 2026-06-29 123637" src="https://github.com/user-attachments/assets/15319165-90dc-4f56-869f-a4136a5369c4" />
 
-### 💼 Job Listings
+### 💼 Sign up page
 
-(Add Screenshot Here)
+<img width="1917" height="906" alt="Screenshot 2026-06-29 123652" src="https://github.com/user-attachments/assets/bd0b247c-2fd0-4b87-ae44-b2ad8e289713" />
+
 
 ### 📄 My Applications
 
-(Add Screenshot Here)
+<img width="1918" height="906" alt="Screenshot 2026-06-29 125150" src="https://github.com/user-attachments/assets/e915099c-cd02-4192-b967-49d299dc76c1" />
 
-### 👤 User Dashboard
-
-(Add Screenshot Here)
 
 ---
 
